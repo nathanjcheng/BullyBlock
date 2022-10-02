@@ -4,6 +4,6 @@ var badphrases = [
    "stupid",
    "ugly",
    "No one likes you",
-   "shut up"
+   "shut up",
    "sucks"
 ]
